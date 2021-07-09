@@ -10,6 +10,6 @@ after_success:
   - coveralls
 addons:
   sonarcloud:
-    organization: jwoytek
+    organization: chaolly007
       #  script:
       #    - sonar-scanner
