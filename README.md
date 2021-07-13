@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/chaolly007/2021-lge-devsecops.svg?branch=main)](https://travis-ci.com/chaolly007/2021-lge-devsecops)
+[![Coverage Status](https://coveralls.io/repos/github/chaolly007/2021-lge-devsecops/badge.svg?branch=main)](https://coveralls.io/github/chaolly007/2021-lge-devsecops?branch=main)
+
 
 # 2021-lge-devsecops Example Project
 This project is intended for use as a model to play with some more
